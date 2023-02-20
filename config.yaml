@@ -3,7 +3,6 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        sports: 3
         neural network: 3
         deep learning: 3
         human action: 2
