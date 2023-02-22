@@ -8,10 +8,10 @@ keywords:
         similarity: 3
         human motion: 3
         body movement: 3
-        neural network: 2
-        deep learning: 2
         skeleton: 2
-        metric learning: 2
+        neural network: 1
+        deep learning: 1
+        metric learning: 1
         gait: 1
         MLP: 1
         
